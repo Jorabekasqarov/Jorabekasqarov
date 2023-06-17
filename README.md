@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Jorabekasqarov/Github_Banner/blob/main/github.gif])
+[![MasterHead]("https://github.com/Jorabekasqarov/Github_Banner/blob/main/github.gif")]
 
 <h1 align="center">Hello 👋, I'm Jorabek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
