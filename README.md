@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://github.com/pasqualerossi/pasqualerossi))])
+[![MasterHead](https://github.com/Jorabekasqarov/Github_Banner/blob/main/github.gif])
 
 <h1 align="center">Hello 👋, I'm Jorabek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
