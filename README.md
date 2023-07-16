@@ -1,4 +1,5 @@
 ![logo](https://github.com/Jorabekasqarov/Github_Banner/blob/main/photo_2023-06-17_18-47-59.jpg)
+![logo](https://github.com/Jorabekasqarov/Github_Banner/blob/main/name.svg)
 
 <h1 align="center">Hello 👋, I'm Jorabek</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
@@ -37,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorabek&show_icons=true&locale=en" alt="jorabek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorabek&" alt="jorabek" /></p>
+
